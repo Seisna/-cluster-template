@@ -1,0 +1,3 @@
+---
+providerRegex: ^(atlas|helios|eos)$
+bypassDnsResolution: true
