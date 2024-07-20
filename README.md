@@ -1,4 +1,4 @@
-# ⛵ Cluster Template
+## ⛵ Cluster Template
 
 Welcome to my opinionated and extensible template for deploying a single Kubernetes cluster. The goal of this project is to make it easier for people interested in using Kubernetes to deploy a cluster at home on bare-metal or VMs.
 
@@ -352,7 +352,7 @@ Below is a general guide on trying to debug an issue with an resource or applica
 
 Resolving problems that you have could take some tweaking of your YAML manifests in order to get things working, other times it could be a external factor like permissions on NFS. If you are unable to figure out your problem see the help section below.
 
-## 👉 Help
+## 👉 Help!
 
 - Make a post in this repository's Github [Discussions](https://github.com/onedr0p/cluster-template/discussions).
 - Start a thread in the `#support` or `#cluster-template` channels in the [Home Operations](https://discord.gg/home-operations) Discord server.
